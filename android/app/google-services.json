@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746462249271",
+    "project_id": "messageme-app-534b8",
+    "storage_bucket": "messageme-app-534b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746462249271:android:ca669d2826c066875c5ab2",
+        "android_client_info": {
+          "package_name": "com.ahmedfayez.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746462249271-1klbqum2ra5s286lgorbvlt4k5p139ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dTIDI2JXWYv7YIarx9Sf_jNoVHltGeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746462249271-1klbqum2ra5s286lgorbvlt4k5p139ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
