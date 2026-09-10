@@ -13,6 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-181717?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ahmedfayezportofolio.vercel.app/#home)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/ahmed.afroto.71868)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@ahmedfayez8099)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-fayez-%F0%9F%87%B5%F0%9F%87%B8-ab602221b/)
 
 </div>
 
